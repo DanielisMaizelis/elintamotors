@@ -2,8 +2,8 @@
 <h2>All of my projects and reports for this internship/report are here in this repo</h2>
 <p>
     There were 6 tasks given to me to complete, each containing some form of proof with videos.
-    This readme contains a very brief explanation of each task.
-    For more information, be sure to open:
+    The work is done using STM32 microcontrollers.
+    For more be sure to open:
 </p>
 <ul>
     <li>
@@ -16,30 +16,9 @@
         <h4>The journal for my internship.</h4>
     </li>
 </ul>
-<h2>Tasks given</h2>
-<ul>
-    <li>
-        <h3>Task 1</h3>
-        <p>Text</p>
-    </li>
-    <li>
-        <h3>Task 2</h3>
-        <p>Text</p>
-    </li>
-    <li>
-        <h3>Task 3</h3>
-        <p>Text</p>
-    </li>
-    <li>
-        <h3>Task 4</h3>
-        <p>Text</p>
-    </li>
-     <li>
-        <h3>Task 5</h3>
-        <p>Text</p>
-    </li>
-     <li>
-        <h3>Task 6</h3>
-        <p>Text</p>
-    </li>
-</ul>
+<p>
+    Task 5 is identical to task 6, only task 6 has extra ADC checking for the circuit for each of the module.
+
+    Since the circuits are not meant for publication, it makes it a lot harder to give a detailed explanation 
+    of what the code does for each task, so make sure if you have any questions address it to me.
+</p>
