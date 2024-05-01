@@ -1,0 +1,5 @@
+../Core/Src/userFiles/adc/adc.c:13:15:inits_adcChannelInit	24	static
+../Core/Src/userFiles/adc/adc.c:44:13:adc_select	32	static
+../Core/Src/userFiles/adc/adc.c:67:17:adc_getDecimalValue	24	static
+../Core/Src/userFiles/adc/adc.c:84:13:adc_VoltageToString	88	static
+../Core/Src/userFiles/adc/adc.c:128:6:adc_sendAdcData	56	static

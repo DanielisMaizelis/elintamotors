@@ -1,0 +1,5 @@
+../Core/Src/userFiles/printResults/print.c:25:6:print_prData	24	static
+../Core/Src/userFiles/printResults/print.c:30:6:print_startMenu	8	static
+../Core/Src/userFiles/printResults/print.c:37:6:print_endNote	16	static
+../Core/Src/userFiles/printResults/print.c:59:6:print_connectionStatus	24	static
+../Core/Src/userFiles/printResults/print.c:84:6:print_adcDataC	40	static

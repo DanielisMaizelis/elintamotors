@@ -1,0 +1,2 @@
+../Core/Src/userFiles/can/canConfig.c:9:6:canConfig_filterConfig	64	static
+../Core/Src/userFiles/can/canConfig.c:50:13:canConfig_startCan	16	static

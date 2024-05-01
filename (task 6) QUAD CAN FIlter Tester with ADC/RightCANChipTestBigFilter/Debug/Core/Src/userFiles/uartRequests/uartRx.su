@@ -1,0 +1,4 @@
+../Core/Src/userFiles/uartRequests/uartRx.c:23:8:HAL_UART_RxCpltCallback	24	static
+../Core/Src/userFiles/uartRequests/uartRx.c:57:8:uartRx_receiveAdcDataC	16	static
+../Core/Src/userFiles/uartRequests/uartRx.c:69:6:HAL_UART_RxHalfCallback	16	static
+../Core/Src/userFiles/uartRequests/uartRx.c:85:6:uartRx_isConnectionOk	24	static

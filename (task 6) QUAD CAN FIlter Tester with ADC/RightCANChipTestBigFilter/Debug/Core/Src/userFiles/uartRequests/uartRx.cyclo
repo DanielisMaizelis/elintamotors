@@ -1,0 +1,4 @@
+uartRx.c:23:8:HAL_UART_RxCpltCallback	7
+uartRx.c:57:8:uartRx_receiveAdcDataC	2
+uartRx.c:69:6:HAL_UART_RxHalfCallback	3
+uartRx.c:85:6:uartRx_isConnectionOk	3

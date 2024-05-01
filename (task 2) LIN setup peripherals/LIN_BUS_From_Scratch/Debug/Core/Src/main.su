@@ -1,0 +1,7 @@
+../Core/Src/main.c:16:9:CalcChecksum	24	static
+../Core/Src/main.c:31:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:58:5:main	16	static
+../Core/Src/main.c:106:6:SCC	80	static
+../Core/Src/main.c:133:6:Error_Handler	4	static
+../Core/Src/main.c:139:6:GPIO_Init	32	static
+../Core/Src/main.c:153:6:Uart_Init	8	static

@@ -1,0 +1,2 @@
+../Core/Src/userFiles/uartRequests/uartRx.c:12:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/userFiles/uartRequests/uartRx.c:22:6:uartRx_isLinOk	24	static

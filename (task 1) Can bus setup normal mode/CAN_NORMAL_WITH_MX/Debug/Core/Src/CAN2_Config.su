@@ -1,0 +1,4 @@
+../Core/Src/CAN2_Config.c:14:6:HAL_CAN_RxFifo1MsgPendingCallback	56	static
+../Core/Src/CAN2_Config.c:34:6:CAN2_Tx	48	static
+../Core/Src/CAN2_Config.c:58:6:CAN2_Filter_Config	48	static
+../Core/Src/CAN2_Config.c:79:6:CAN2_IRQ_Start	8	static

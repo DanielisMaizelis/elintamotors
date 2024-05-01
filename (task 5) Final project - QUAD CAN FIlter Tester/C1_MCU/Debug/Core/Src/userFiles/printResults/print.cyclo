@@ -1,0 +1,5 @@
+print.c:25:6:print_prData	1
+print.c:30:6:print_startMenu	1
+print.c:37:6:print_endNote	2
+print.c:59:6:print_connectionStatus	4
+print.c:84:6:print_adcDataC	13

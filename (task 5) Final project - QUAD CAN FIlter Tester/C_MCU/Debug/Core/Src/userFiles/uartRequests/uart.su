@@ -1,0 +1,2 @@
+../Core/Src/userFiles/uartRequests/uart.c:13:6:uart_sendStatus	24	static
+../Core/Src/userFiles/uartRequests/uart.c:31:6:HAL_UART_RxCpltCallback	16	static

@@ -1,0 +1,3 @@
+canRx.c:12:6:canRx_isCanOk	2
+canRx.c:27:6:HAL_CAN_RxFifo0MsgPendingCallback	5
+canRx.c:48:6:HAL_CAN_RxFifo1MsgPendingCallback	5
